@@ -4,3 +4,8 @@ h1{
 p{
     background-color: black;
 }
+
+html,body{
+    background-color: wheat;
+    width: 100%;
+}
